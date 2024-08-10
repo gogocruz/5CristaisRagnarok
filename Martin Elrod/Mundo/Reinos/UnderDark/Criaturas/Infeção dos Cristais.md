@@ -1,0 +1,1 @@
+ Doença que nos vai transformando em cristal. Torna o individuo ligeiramente mais forte que o original.

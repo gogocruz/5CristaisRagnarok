@@ -1,0 +1,1 @@
+Pertecente do antigo concelho de Ascad que selou [[Deimos]] 

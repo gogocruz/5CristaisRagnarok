@@ -1,0 +1,4 @@
+- [ ] Deusa da Morte [[Izanami]]
+- [x] Nox (Dei-lhe uma nova chance)
+- [x] Siege Breaker
+- [ ] [[Siege Breaker]] (Deus do Caos)

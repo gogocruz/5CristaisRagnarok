@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c7ea95bafa3b3e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "4374392a5c76a785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5caa320053ebd4ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5fce88bff63eb66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976a64c939b889a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1190591022039b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "124a05d704a3465f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dbc15fe767862e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35778db55da54315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e99f441ee9659136",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41bc59a689770a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "514e915f5c0a54f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695b562f72c5273e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71a0f4577a4280db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b386bb3e011d618e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "081c2ea403852f99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5caa320053ebd4ae",
+  "lastOpenFiles": [
+    "Ficha.md",
+    "Ficha/Martin_Elrod_Ficha_lvl21_God_of_Knowledge.pdf",
+    "Ficha/Buffs dos Deuses.md",
+    "Ficha/Ficha.md",
+    "Ficha/BackStory.md",
+    "Ficha",
+    "Livros/Livro do Vecna.md",
+    "Livros/Under Dark.md",
+    "Livros/Familia Elrod.md",
+    "Livros/Deuses.md",
+    "Livros",
+    "Deuses.md",
+    "Untitled.canvas",
+    "Martin_Elrod_Ficha_lvl21_God_of_Knowledge 1.pdf",
+    "Under Dark.md",
+    "Martin_Elrod_Ficha_lvl21_God_of_Knowledge.pdf",
+    "Livro do Vecna.md",
+    "BackStory.md",
+    "Welcome.md"
+  ]
+}

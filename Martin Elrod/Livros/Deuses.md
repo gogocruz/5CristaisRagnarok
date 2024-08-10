@@ -1,0 +1,17 @@
+Ranking de Poder de deuses:
+1. [[Shiva]]
+2. [[Elohim]]
+3. [[Zell]]
+4. [[Mammon]]
+5. [[Izanami]]
+6. [[Adikia]]
+7. [[Cronos]]
+8. [[Martin Elrod]]/[[Sarawatti]]
+9. [[Dolos]]
+10. [[Squall]]
+
+[[KartiKeya]]
+[[Deus da Inucência]]
+[[Adonai]]
+[[Fida]]
+[[Siege Breaker]]
