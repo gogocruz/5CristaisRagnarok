@@ -1,0 +1,1 @@
+Mundo criado em homenagem aos [[Lirium - Pai dos Deuses]].

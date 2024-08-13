@@ -7,7 +7,7 @@ God of knowledge buffs ([[Sarawatti]]): 
 - Checks: +5 em todos History - Infinito  
 - As tuas aura duplicam
 - Spell slots duplicaram  
-- ~~HP a duplicou~~ 
+- ~~HP a duplicou~~ (está dividido ente os dois)
 - Lay on Hands duplicou 
 - E ganhaste a habilidade de superar resistências/Imunidades a radiant 
 - Penso, logo sei 

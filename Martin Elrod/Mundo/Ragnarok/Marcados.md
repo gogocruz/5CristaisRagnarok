@@ -1,0 +1,1 @@
+Pessoas que fazem parte da humanidade, cujo foram escolhidos ou marcados por [[Deuses]] durante o [[Ragnarok]].
