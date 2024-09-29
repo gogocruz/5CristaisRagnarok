@@ -1,0 +1,1 @@
+Vila que visa homenagear a vila natal de [[Joel]] que era a vila dos filhos de [[Cronos]], a Vila de Clamber.

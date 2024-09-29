@@ -8,11 +8,10 @@ Fraqueza - Se ficar sozinho acabo cego por vingança a ponto de ser irremediáve
 # Objetivos 
 
 ## Pessoais
-- [ ] Curar [[Chen Lin]] da [[Infeção dos Cristais]] no próximo dia (2/3 dias)
-- [ ] Falar com [[Gale]] para completar o shinenigan... [[Notas]]
-- [ ] Matar [[Izanami]] (Deusa da Morte) [[Death Note]] 
 
-- [x] Aprender com Nero novos Spells [[Livro do Vecna]]
+- [x] Falar com [[Gale]] para completar o shinenigan... [[Notas]]
+- [ ] Matar [[Izanami]] (Deusa da Morte) [[Death Note]] 
+- [ ] Aprender com Nero novos Spells [[Livro do Mammon]]
 ## [[Marcados do Destino]]
 **Lista de afazeres Marcados do Destino:**
 
@@ -20,15 +19,15 @@ Fraqueza - Se ficar sozinho acabo cego por vingança a ponto de ser irremediáve
 - [ ] Dwarf ferreiro ([[Vhag]]) na Ilha dos Dragões que a Chen Lin precisa para infudir o Jamel com o tridente 
 - [x] Ir buscar o Mammon
 - [ ] Deusa da Morte, Shenenigan do Martin [[Notas]]
-- [ ] Aventura de monge da Chen Lin (encontrar o templo de Banagor do norte ou sul que ela quer ir para lá treinar ou algo assim)
-- [ ] Temore vender a coroa
-    - [ ] confirmar sobre as [[Máscaras Demoníacas]]
+- [ ] Aventura de monge da Chen Lin (encontrar o templo de [[Baganor]] do norte ou sul que ela quer ir para lá treinar ou algo assim)
+
+ [ ] confirmar sobre as [[Máscaras Demoníacas]] em Temore
 
 - [ ] [[Máscaras Demoníacas]]
-    - [ ] Encontrar informações sobre as [[Máscaras Demoníacas]] espalhadas pelo mundo. Uma para cada party member(1/4)
+    - [ ] Encontrar informações sobre as [[Máscaras Demoníacas]] espalhadas pelo mundo. Uma para cada party member(1/5)
         - [ ] Todas as máscaras tão associadas a um culto, se encontrarmos os cultos devemos encontrar as máscaras
         - [ ] Temos informação sobre talvez existir alguma no mercado negro de Temore, também devemos poder comprar informação sobre mais cultos lá
-        - [ ] Um dos cultos deve estar entre Baganor do sul e Lundir
+        - [ ] Um dos cultos deve estar entre [[Baganor]] do Sul e Lindur
 - [ ] Depois de ter as máscaras e  antes de ir ter com o [[Lirium - Pai dos Deuses]] temos de ir ao inferno derrotar o [[Oshigami]] e substitui-lo por um novo rei do inferno ([[Asmodeus]]).
 - [ ] Foder o [[Siege Breaker]] deus do Caos (DE VEZ)
 - [ ] Derrotar o [[Lirium - Pai dos Deuses]]!!
@@ -53,11 +52,12 @@ Dado pelo [[Hephaestus]] para dar ao [[Vhag]] pois ele é caro.
 ### Items Pessoais
 [[Carta Sarawatti]]
 Amuleto de Família Elrod
+Mapa da [[Capital Semi-Divina]]
 ### Livros
 - [[Under Dark]]
 - [[BackStory]]
 - [[Deuses]]
 - [[Familia Elrod]]
-- [[Livro do Vecna]]
+- [[Livro do Mammon]]
 - [[Death Note]]
 

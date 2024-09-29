@@ -1,0 +1,1 @@
+Grupo de Pessoas que juntos restauraram a paz do [[Mundo de Lirium]], não só recolhendo os 5 Cristais, mas como lutando para derrotar [[Deimos]].

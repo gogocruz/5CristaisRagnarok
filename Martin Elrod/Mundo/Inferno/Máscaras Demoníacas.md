@@ -1,0 +1,1 @@
+Máscaras com poderes Demoníacos capazes de derrotar [[Lirium - Pai dos Deuses]]

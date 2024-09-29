@@ -1,0 +1,1 @@
+Juntando os cristais, libertava-se [[Deimos]] da sua prisão.

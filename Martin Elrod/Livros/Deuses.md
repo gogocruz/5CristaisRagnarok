@@ -21,13 +21,3 @@ Ranking de Poder de deuses:
 19. [[Fida]]
 20. [[Morpheus]]
 21. [[Deus da Inocência]]
-
-
-
-
-
-
-
-
-
-

@@ -1,1 +1,1 @@
-Reino 
+Capital do Reino de Ascad

@@ -6,14 +6,15 @@
       {
         "id": "24364f7caf9aa211",
         "type": "tabs",
+        "dimension": 32.11736716891356,
         "children": [
           {
-            "id": "06d099144f50fef0",
+            "id": "17689fbbc62bf85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mundo/Personagens/Martin Elrod.md",
+                "file": "Ficha/Notas.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,42 +23,31 @@
         ]
       },
       {
-        "id": "217b4eab6b07235d",
+        "id": "7af8c2d53577059c",
         "type": "tabs",
+        "dimension": 33.94131641554322,
         "children": [
           {
-            "id": "4670a263df0550b6",
+            "id": "23412c49873ee1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mundo/Deuses/Lirium - Pai dos Deuses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89f26533c7ef44e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Ragnarok/Ragnarok.md",
+                "file": "Katrine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "7af8c2d53577059c",
+        "id": "04f02d5421616483",
         "type": "tabs",
+        "dimension": 33.94131641554322,
         "children": [
           {
-            "id": "44449fef65781a66",
+            "id": "9cf8ec9bfd069d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,21 +57,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b3fbc3eaf85420dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ficha/Buffs dos Deuses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ficha/Buffs dos Deuses.md",
+                "file": "Livros/Deuses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ficha/Buffs dos Deuses.md",
+                "file": "Livros/Deuses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ficha/Buffs dos Deuses.md"
+                "file": "Livros/Deuses.md"
               }
             }
           }
@@ -210,54 +186,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3fbc3eaf85420dc",
+  "active": "9cf8ec9bfd069d64",
   "lastOpenFiles": [
-    "Ficha/Notas.md",
-    "Mundo/Personagens/Martin Elrod.md",
-    "Mundo/Titãs/Thordan.md",
+    "Katrine.md",
     "Livros/Deuses.md",
-    "Mundo/Deuses/Contratos/Contrato Divino.md",
-    "Mundo/Ragnarok/Ragnarok.md",
-    "Mundo/Ragnarok/Marcados.md",
-    "Mundo/Personagens/Kaito Yazanami.md",
-    "Mundo/Mundo de Lirium.md",
-    "Mundo/Ragnarok/Regras.md",
-    "Mundo/Deuses/3 Criaturas/Deimos.md",
-    "Mundo/Npc/Ardius.md",
-    "Mundo/Reinos/Ascad.md",
-    "Mundo/Deuses/Morpheus.md",
-    "Mundo/Deuses/Lirium - Pai dos Deuses.md",
-    "Mundo/Grupos",
-    "Mundo/Deuses/Hephaestus.md",
-    "Mundo/Inferno/Inferno.md",
-    "Mundo/Grupos/Familias",
-    "Reunião de Deuses.md",
-    "Mundo/Deuses/Contratos",
-    "Mundo/Deuses/Squall.md",
+    "Livros/Under Dark.md",
+    "Evento de matar a Tiamat.md",
+    "Carris.md",
+    "Mundo/Personagens/Martin Elrod.md",
+    "Mundo/Personagens/Nero Yazanami.md",
+    "Livros/Livro do Mammon.md",
+    "Mundo/Npc/Vecna.md",
+    "Ficha/Notas.md",
+    "Mundo/Reinos/UnderDark/Npc/Bromnus Loudkin.md",
+    "Capital Semi-Divina.md",
+    "Mundo/Reinos/UnderDark/Localizções/Capital.md",
+    "Pasted image 20240922183225.png",
+    "Mundo/Reinos/UnderDark/Localizções/Capital divina.md",
+    "Mundo/Npc/Chad T..md",
+    "Demônio Encorsado.md",
+    "Mundo/Deuses/Fida.md",
+    "Mundo/Deuses/Adonai.md",
     "Mundo/Deuses/Elohim.md",
-    "Imagens/Pasted image 20240811231049.png",
+    "Mundo/Deuses/Deus da Inocência.md",
+    "Mundo/Deuses/Morpheus.md",
+    "Mundo/Deuses/Baganor.md",
+    "Mundo/Personagens/Siege Breaker.md",
+    "Mundo/Deuses/KartiKeya.md",
     "Mundo/Deuses/Vinshu.md",
-    "Ficha/Conversa privada com pais dos deuses.md",
-    "Mundo/Inferno/Demônios/Astor.md",
-    "Mundo/Personagens/Ramar.md",
-    "Mundo/Grupos/Familias/Família Elrod.md",
-    "Mundo/Grupos/Guerreiros De Ascad.md",
+    "Mundo/Deuses/Hephaestus.md",
+    "Mundo/Cidades_e_Ilhas",
+    "Imagens/Nero_Yazanami.png",
+    "Imagens/May.png",
+    "Imagens/Zaphir.png",
+    "Imagens/Pasted image 20240813204317.png",
+    "Imagens/Pasted image 20240813204250.png",
+    "Imagens/Emile.png",
+    "Mundo/Grupos",
+    "Mundo/Grupos/Familias",
+    "Mundo/Deuses/Contratos",
+    "Imagens/Pasted image 20240811231049.png",
     "Mundo/Deuses/3 Criaturas",
     "Mundo/Titãs",
     "Mundo/Inferno",
     "Imagens/Pasted image 20240811205944.png",
     "Imagens/Pasted image 20240811211731.png",
-    "Imagens/Pasted image 20240811211519.png",
-    "Imagens/Pasted image 20240811210931.png",
-    "Imagens/Pasted image 20240811210711.png",
-    "Imagens/Pasted image 20240811210334.png",
-    "Imagens/Pasted image 20240811210139.png",
-    "Imagens/Pasted image 20240811194511.png",
-    "Imagens/Chad_Thunderc.png",
     "Mundo/Npc",
     "Mundo/Reinos",
     "Mundo/Inferno/Demônios",
-    "Mundo/Reinos/UnderDark/Npc",
     "Untitled.canvas"
   ]
 }

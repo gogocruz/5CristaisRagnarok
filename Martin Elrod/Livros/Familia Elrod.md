@@ -2,7 +2,7 @@
 Família que protegia o Rei, Família Elrod (tem 1000 anos +/-)
 
 
-Guardião do reino aparece (Deimos), quando este aparece vem  com 2 irmãos, 
+Guardião do reino aparece ([[Deimos]]), quando este aparece vem  com 2 irmãos, 
 
 cada reino tinha um vontade e desejo, 
 
