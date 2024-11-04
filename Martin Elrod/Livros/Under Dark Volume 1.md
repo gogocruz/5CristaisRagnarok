@@ -1,8 +1,8 @@
-[[Shiva]] reina o [[Under Dark]] e tem como pet a [[Tiamat]]
+[[Shiva]] reina o [[Under Dark Volume 1]] e tem como pet a [[Tiamat]]
 A dungeon do [[Mammon]] também está por aqui.
 
 As pessoas daqui parecem estar ligadas aos dois deuses.
-# Entradas/Saidas 
+# Entradas/Saídas 
 	Tirar print do mapa com as anotações
 
 # Tempo
@@ -16,12 +16,17 @@ A [[Capital]]:
 	Transporte:
 		Para chegar á Capital divina a pé é uma viagem de 3 meses e meio. A não ser que vamos de [[Carris]]
 [[Capital divina]]
+	A capital divina pode estar noutro mundo e não no nosso, pois demorar tanto tempo de carris é estranho... 
+## Comidas
+Diferentes tipos de cristais, comida e normal
 # Pessoas
 [[Bromnus Loudkin]] 
 [[Redfield]]
 [[Gus]]
+[[Thormurgur]]
+[[Jack o Maluco]]
 
-[[Vhag]] - Dwarf que junta armas lendárias, está na [[Capital divina]], é o responsável por criar as armas para o [[evento de matar a Tiamat]]
+[[Vhag]] - Dwarf que junta armas lendárias, está na [[Capital divina]], é o responsável por criar as armas para o [[Evento de matar a Tiamat]]
 # Cristais
 Cristais azuis são usados para alimentar com energia as cidades, este conseguem durar "uma vida"
 ## Dinheiro
@@ -29,7 +34,8 @@ O dinheiro aqui são cristais preciosos. Quanto mais perto do centro ([[Tiamat]]
 
 - Corno de Demônio = 5 Diamantes
 - Cristal da vila do Nero = 1 diamante
-- 1diamante =  60 rubies = 50 safiras =40 esmeraldas
+- 1diamante =  60 rubis = 50 safiras =40 esmeraldas
+- [[Titanium]] = 15 diamantes?
 # Animais
 Criaturas têm medo de presença diacrônica, transformar em dragão não funciona, mas merda de dragão resolve.
 

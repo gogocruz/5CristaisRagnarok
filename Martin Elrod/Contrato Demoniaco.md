@@ -1,0 +1,2 @@
+[[Martin Elrod]] e [[Asmodeus]] fizeram um contrato.
+O Asmodeus 'asume a culpa da honryness do chad ' e e troca o Martin é o catalisador da enregia necrotica quando [[Asmodeus]] e a [[Chen Lin]] fazem união primordial.

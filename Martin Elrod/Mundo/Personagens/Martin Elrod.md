@@ -10,8 +10,9 @@ Fraqueza - Se ficar sozinho acabo cego por vingança a ponto de ser irremediáve
 ## Pessoais
 
 - [x] Falar com [[Gale]] para completar o shinenigan... [[Notas]]
-- [ ] Matar [[Izanami]] (Deusa da Morte) [[Death Note]] 
+- [ ] Tratar da [[Izanami]] e do [[Contrato Divino]]
 - [ ] Aprender com Nero novos Spells [[Livro do Mammon]]
+- [ ] Recuperar a vida do planeta da [[Elohim]]
 ## [[Marcados do Destino]]
 **Lista de afazeres Marcados do Destino:**
 
@@ -20,8 +21,7 @@ Fraqueza - Se ficar sozinho acabo cego por vingança a ponto de ser irremediáve
 - [x] Ir buscar o Mammon
 - [ ] Deusa da Morte, Shenenigan do Martin [[Notas]]
 - [ ] Aventura de monge da Chen Lin (encontrar o templo de [[Baganor]] do norte ou sul que ela quer ir para lá treinar ou algo assim)
-
- [ ] confirmar sobre as [[Máscaras Demoníacas]] em Temore
+- [ ] Confirmar sobre as [[Máscaras Demoníacas]] em Temore
 
 - [ ] [[Máscaras Demoníacas]]
     - [ ] Encontrar informações sobre as [[Máscaras Demoníacas]] espalhadas pelo mundo. Uma para cada party member(1/5)
@@ -43,18 +43,27 @@ Amulter of Devout +3 http://dnd5e.wikidot.com/wondrous-items:amulet-of-the-devou
 ### Items Mágicos
 [[NFT(Not Flame Tongue)]]
 [[Flame Tongue]]
+[[Memory Stone]] 
+- Antimagic field
+- Shield 
+- Otherwordly Guise (Upper Planes)
+- Compel Duel (fica sobre o efeito x ronda igual char.mod.)
+
 
 #### Bomba radiante dada pela [[Elohim]]
-Bomba radiante que que rebenta num raio de 30 feat, a sua explosão da x dano radiante e depois  torna-se num anti-magic field.
-
+Bomba radiante que que rebenta num raio de 30 feat, a sua explosão da x dano radiante e depois torna-se num Anti-magic field.
 #### Pino Dourado 
 Dado pelo [[Hephaestus]] para dar ao [[Vhag]] pois ele é caro.
+#### Violeta(flor)
+Dada pela [[Elohim]], justamente com o pedido de recuperar a vida do antigo planeta dela.
 ### Items Pessoais
 [[Carta Sarawatti]]
 Amuleto de Família Elrod
 Mapa da [[Capital Semi-Divina]]
+
+Bola de engrenagens, que abre uma porta para a Dungeon da [[Elohim]] (1x por dia)
 ### Livros
-- [[Under Dark]]
+- [[Under Dark Volume 1]]
 - [[BackStory]]
 - [[Deuses]]
 - [[Familia Elrod]]
