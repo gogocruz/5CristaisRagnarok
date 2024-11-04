@@ -3,7 +3,7 @@
   "colored-text",
   "obsidian-minimal-settings",
   "obsidian-icon-folder",
-  "obsidian-banners",
   "templater-obsidian",
-  "github-sync"
+  "github-sync",
+  "dataview"
 ]
