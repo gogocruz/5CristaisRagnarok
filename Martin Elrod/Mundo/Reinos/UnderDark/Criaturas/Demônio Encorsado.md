@@ -16,3 +16,5 @@ Cold
 
 ---
 Usando um pedaço deles, é um excelente repelente contra as restantes criaturas do Underdark
+
+Eram almas demoníacas que no seu último suspiro de vida foi lhes oferecido uma segunda chance pela [[Tiamat]], mas estão "presas" a ele 

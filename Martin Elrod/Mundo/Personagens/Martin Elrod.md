@@ -17,7 +17,7 @@ Fraqueza - Se ficar sozinho acabo cego por vingança a ponto de ser irremediáve
 **Lista de afazeres Marcados do Destino:**
 
 - [x] Levar os dragões à ilha e falar com eles sobre eles nos ajudarem
-- [ ] Dwarf ferreiro ([[Vhag]]) na Ilha dos Dragões que a Chen Lin precisa para infudir o Jamel com o tridente 
+- [ ] Dwarf ferreiro ([[Vhag]]) na Ilha dos Dragões que a Chen Lin precisa para infudir o Jamel com o tridente.
 - [x] Ir buscar o Mammon
 - [ ] Deusa da Morte, Shenenigan do Martin [[Notas]]
 - [ ] Aventura de monge da Chen Lin (encontrar o templo de [[Baganor]] do norte ou sul que ela quer ir para lá treinar ou algo assim)

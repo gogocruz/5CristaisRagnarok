@@ -3,11 +3,11 @@ A dungeon do [[Mammon]] também está por aqui.
 
 As pessoas daqui parecem estar ligadas aos dois deuses.
 # Entradas/Saídas 
-	Tirar print do mapa com as anotações
+![[Pasted image 20250112184959.png]]
+
 
 # Tempo
  O tempo aqui passa mais devagar, cada ano no Under Dark representa 6 no exterior. O tempo aqui passa 6 vezes mais devagar.
-
 # Cidades
 Existem vilas e cidades, das mais importantes são:
 A [[Capital]]:
@@ -25,6 +25,7 @@ Diferentes tipos de cristais, comida e normal
 [[Gus]]
 [[Thormurgur]]
 [[Jack o Maluco]]
+[[Eufasto]]
 
 [[Vhag]] - Dwarf que junta armas lendárias, está na [[Capital divina]], é o responsável por criar as armas para o [[Evento de matar a Tiamat]]
 # Cristais
@@ -34,7 +35,7 @@ O dinheiro aqui são cristais preciosos. Quanto mais perto do centro ([[Tiamat]]
 
 - Corno de Demônio = 5 Diamantes
 - Cristal da vila do Nero = 1 diamante
-- 1diamante =  60 rubis = 50 safiras =40 esmeraldas
+- Diamante =  60 rubis = 50 safiras =40 esmeraldas
 - [[Titanium]] = 15 diamantes?
 # Animais
 Criaturas têm medo de presença diacrônica, transformar em dragão não funciona, mas merda de dragão resolve.

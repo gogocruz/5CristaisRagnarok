@@ -27,3 +27,6 @@ Ele tem bom potencial.
 Ele quer explorar o mundo, acha q pode ser interessante.
 [[Katrine]] tem inveja do Adikia, mas ele não sabe.
 Ele tem a maldição da injustiça.
+
+---
+De momento está a descansar pois usou a sua magia toda para recuperar a magia das ilusões do Nero.
